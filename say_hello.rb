@@ -1,5 +1,4 @@
 # Build your say_hello method he
-def say_hello (phrase = "Ruby Programmer", name = "Kent Beck")
+def say_hello (name = "Ruby Programmer")
   puts "Hello #{name}!"
-  puts "Hello #{phrase}!"
 end
