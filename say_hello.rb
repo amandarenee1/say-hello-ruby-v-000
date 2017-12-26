@@ -1,2 +1,4 @@
-# Build your say_hello method here
-say_hello.rb
+# Build your say_hello method he
+def greeting 
+  puts "Hello Ruby Programmer!"
+end
